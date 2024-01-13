@@ -7,7 +7,6 @@ Welcome to the Dark Mode Toggle project! This project allows users to switch bet
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Version Control](#version-control)
-- [Hosted Version](#hosted-version)
 
 ## Introduction
 
